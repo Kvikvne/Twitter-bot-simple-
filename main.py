@@ -6,8 +6,8 @@ import time
 
 PROMISED_DOWN = 50
 PROMISED_UP = 10
-TWITTER_EMAIL = "kaianderson9@gmail.com"
-TWITTER_PASSWORD = "56JF1ngBvFSi!9+*"
+TWITTER_EMAIL = "YOUR EMAIL"
+TWITTER_PASSWORD = "YOUR PASSWORD"
 
 service = Service("/Users/kaian/Documents/Development/chromedriver.exe")
 
